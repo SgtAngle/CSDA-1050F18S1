@@ -1,4 +1,4 @@
-
+![Logo of the project](title.gif)
 # csda 1050
 
 ### Sprint

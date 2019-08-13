@@ -1,8 +1,10 @@
 VALUE0	# Basics | Total Households, 2018
 VALUE1	# Basics | Total Population, 2018
-VALUE2	# Household Population 25 to 64 Years by Educational Attainment | Household Population 25 To 64 Years | No Certificate, Diploma Or Degree, 2018
-VALUE3	# Household Population 15 Years or Over by Educational Attainment | Household Population 15 Years Or Over | University Degree | Above Bachelor's, 2018
-VALUE4	# Population 15 Years or Over by Marital Status | Total Population 15 Years Or Over, 2018
-VALUE5	# Household Population by Total Immigrants and Place of Birth | Total Household Population, 2018
-VALUE6	Total current consumption, 2018
-VALUE7	Average Total current consumption, 2018
+VALUE2	# Households by Income (Current Year) | Total Households | Household Income $100,000 Or Over (Current Year $), 2018
+VALUE3	# Households by Income (Current Year) | Total Households | Household Income $100,000 Or Over (Current Year $) | Household Income $250,000 Or Over (Current Year $), 2018
+VALUE4	Households by Income (Current Year) | Average Household Income (Current Year $), 2018
+VALUE5	Households by Income (Current Year) | Median Household Income (Current Year $), 2018
+VALUE6	# Household Population by Knowledge of Official Language | Household Population For Knowledge Of Official Language | Neither English Nor French, 2018
+VALUE7	% Household Population by Mother Tongue | Household Population For Mother Tongue | Total Single Response | English, 2018
+VALUE8	Total current consumption, 2018
+VALUE9	Total expenditure, 2018

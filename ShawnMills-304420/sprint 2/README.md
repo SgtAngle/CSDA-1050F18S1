@@ -40,6 +40,9 @@ Some tools discovered through various tutorials have been made use of, and more 
 Of note, the following tutorials were used extensively:  
 
 http://darribas.org/gds_scipy16/ipynb_md/04_esda.html
+
 http://ljwolf.org/post/spatial_acf/
+
 https://pysal.readthedocs.io/en/v1.11.0/users/tutorials/autocorrelation.html
+
 https://automating-gis-processes.github.io/CSC18/index.html

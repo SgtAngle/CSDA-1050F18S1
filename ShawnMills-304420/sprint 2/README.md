@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/SgtAngle/CSDA-1050F18S1/blob/master/ShawnMills-304420/spint%202/Title.gif)
+![Logo of the project](https://github.com/SgtAngle/CSDA-1050F18S1/blob/master/ShawnMills-304420/sprint%202/Title.gif)
 # Sprint 2
 
 ### What's in this sprint?

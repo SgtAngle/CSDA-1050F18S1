@@ -1,12 +1,6 @@
+![Logo of the project](https://github.com/SgtAngle/CSDA-1050F18S1/blob/master/ShawnMills-304420/sprint%203/Title.gif)
 # Research Proposal
 
-Can be a pdf, markdown, etc.
+### What's in this folder?
 
-This is your research proposal. Short to the point document - probably never more than a few pages.
-
-Identify your research question. 
-Literature review. 
-Data Sources.
-Methods.
-Limitations/Contraints
-Timeline (keep in mind the Spints/length of the class)
+The research proposal paper for this project can be viewed by clicking on the Proposal-FINAL.pdf file link above.

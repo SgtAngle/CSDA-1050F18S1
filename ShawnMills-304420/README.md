@@ -1,41 +1,77 @@
-# csda 1050 template
+![Logo of the project](https://github.com/SgtAngle/CSDA-1050F18S1/blob/master/ShawnMills-304420/sprint%202/Title.gif)
+# Third Party Signs and Traffic Accidents in Toronto
+
+This project attempts to discover if there is a significant measurable correlation between the presence of third party advertising signs in Toronto and the number of traffic accidents that occur nearby.
+
+## Contents
+
+The project is broken out in this repository as follows:
+
+* **data** - source data files for all python jupyter notebooks
+* **final** - the final report and presentation files
+* **proposal** - the original proposal document for the project
+* **spint 1** - the first submission containing all data exploration and data discovery notes
+* **sprint 2** - the second submission containing data modeling notes and results
+* **sprint 3** - empty, not used
 
 
+## Installation
 
-Here you will outline your entire project. Detail the purpose, background on the project, and contents found here. 
+Python 3.6.8 was used to perform the analyses and create the notebooks, and the following libraries were used:
 
-  - This should include how to install dependecies and run the project from start to finish
-  - Use proper formatting here - make it look pretty
-  - Magic, not how I want to see the results appear
-
-# Updates Limitations Requirements?
-
-  - If you have data here - put it in it's own data folder. If it's downloadable link to it. 
-  - Don't post passwords, usernames, or private information here.
-
-
-You can also:
-  - Link files from GitHub, Dropbox, Google Drive and One Drive..the web etc. 
-  - Be creative and look around GitHub for great "Readme.md" examples. 
- 
-* [Google] - its your friend for Markdown editors and syntax
+* Pandas 0.25.0
+* Numpy 1.16.4
+* Xlrd 1.2.0
+* Matplotlib 3.1.1
+* Seaborn 0.9.0
+* Geopandas 0.5.1
+* Shapely 1.6.4.post1
+* Fiona 1.8.4
+* Pycrs 1.0.1
+* Pysal 2.0.0
 
 
-### Installation
+Run the following commands to install the libraries:
 
-Often these have explicit directions per platform. If you're using anaconda/python make sure to list the versions/libraies. 
-e.g., Install the dependencies and devDependencies and start the server.
-
-```sh
-$ cd data
-$ npm install -d
-$ node app
+```
+conda install pandas
+conda install numpy
+conda install xlrd
+conda install matplotlib
+conda install seaborn
+conda install geopandas
+conda install shapely
+conda install fiona
+conda install pycrs
+conda install pysal
 ```
 
-For production environments...
+If any of the above are not available, try pulling from conda-forge:
 
 ```
-conda install -c conda-forge tensorflow-gpu
+conda install -c conda-forge pandas
+conda install -c conda-forge numpy
+conda install -c conda-forge xlrd
+conda install -c conda-forge matplotlib
+conda install -c conda-forge seaborn
+conda install -c conda-forge geopandas
+conda install -c conda-forge shapely
+conda install -c conda-forge fiona
+conda install -c conda-forge pycrs
+conda install -c conda-forge pysal
+```
+
+...or try pip:
+
+```
 pip install pandas
-etc. etc. 
+pip install numpy
+pip install xlrd
+pip install matplotlib
+pip install seaborn
+pip install geopandas
+pip install shapely
+pip install fiona
+pip install pycrs
+pip install pysal
 ```

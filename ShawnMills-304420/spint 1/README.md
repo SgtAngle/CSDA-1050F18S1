@@ -2,7 +2,11 @@
 # Sprint 1
 
 ### What's in this sprint?
-This sprint represents the discovery phase of the project.  Datasets were found and their contents were cleaned and reviewed.  All results and findings are included within the Sprint 1 - Data Discovery python notebook.
+This sprint represents the discovery phase of the project.  Datasets were found and their contents were cleaned and reviewed.  All results and findings are included within the following python notebooks:
+
+* Sprint 1 - Data Discovery
+* Sprint 1a - Geo-data Discovery (geographic visualizations of the data)
+
 
 The datasets can be found in the data folder at the root of this github directory.
 
@@ -13,6 +17,15 @@ Jupyter notebook with the Python 3 engine will be required if you choose to down
 * xlrd
 * matplotlib
 * seaborn
+
+Sprint 1a file:
+* pandas
+* geopandas
+* shapely
+* fiona
+* matplotlib
+* numpy
+* pycrs
 
 ### What is the purpose of this?
 The goal is to find out if third-party signage has any effect on the number of traffic accidents in the city of Toronto.
